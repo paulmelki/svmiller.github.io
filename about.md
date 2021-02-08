@@ -6,7 +6,8 @@ permalink: /about/
 
 {% include image.html url="/images/svm-2013-clemson-gatech-crop.jpg" caption="Me at the Clemson-Georgia Tech game in 2013." width=350 align="right" %}
 
-I do have interests outside of the academy, but not many.
+Hello, fellow wanderer of the world!
+
 
 I am a proud graduate of <a class="tosu" href="http://www.osu.edu/"><em><abbr title="Yes, the THE is important">The</abbr></em> Ohio State University</a>. I do not conceal that well, nor do I try. This is especially true during football season.
 

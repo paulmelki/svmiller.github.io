@@ -177,14 +177,16 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
 }
 
 h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-		font-family: 'Titillium Web', sans-serif;
-		color: $clemson-purple;
+    font-family: 'Lato', sans-serif;
+    color: $clemson-purple;
+    font-weight: 400;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
